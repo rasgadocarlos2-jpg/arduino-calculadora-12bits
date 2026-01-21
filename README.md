@@ -5,6 +5,7 @@
 [![Arduino](https://img.shields.io/badge/Arduino-Mega%202560-00979D?logo=arduino)](https://www.arduino.cc/)
 [![Wokwi](https://img.shields.io/badge/Simulador-Wokwi-4CAF50)](https://wokwi.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Commits](https://img.shields.io/github/commit-activity/m/teu-username/arduino-calculadora-12bits)](https://github.com/teu-username/arduino-calculadora-12bits/commits)
 
 ## 📋 Descrição
 
