@@ -1,0 +1,45 @@
+# Arduino
+*.hex
+*.elf
+*.eep
+*.lss
+*.map
+*.sym
+*.bin
+
+# Office temporários
+~$*
+*.tmp
+*.temp
+*.bak
+
+# Sistema Operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Compilação
+build/
+*.o
+*.a
+
+# Logs
+*.log
+
+# Compactados
+*.zip
+*.rar
+*.7z
+*.tar.gz
